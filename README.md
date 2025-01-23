@@ -15,11 +15,6 @@ Here's a quick overview of the repositories you'll find on my profile:
 
 Feel free to explore them and provide feedback or suggestions!
 
-## Projects I'm Currently Working On
--💆💆‍♂️ [Lumos](https://github.com/maryskid/lumos): An app dedicated to helping people stress less and achieve the most trough their day and life.
-
-These projects are actively being developed, and I'm excited to share updates as they progress.
-
 ## Get in Touch
 If you have any questions, ideas, or just want to connect, feel free to reach out to me. I'm always open to interesting discussions and opportunities.
 
